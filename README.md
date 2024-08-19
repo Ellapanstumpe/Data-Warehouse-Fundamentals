@@ -7,7 +7,7 @@ This project showcase my skills on data warehouse as following:
 #Scenario
 
 You are a data engineer hired by a solid waste management company. It collects and recycles solid waste across major cities in the country of Brazil. They operate hundreds of trucks of different types to collect and transport solid waste. The company would like to create a data warehouse so that it can create reports like:
-
+![form](https://github.com/user-attachments/assets/dcaef136-3778-40dc-ba1f-2de225cfdd1e)
 Total waste collected per year per city
 Total waste collected per month per city
 Total waste collected per quarter per city
