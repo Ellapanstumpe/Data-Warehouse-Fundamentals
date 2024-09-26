@@ -18,7 +18,7 @@ You are a data engineer hired by a solid waste management company. It collects a
 
 You will use your data warehousing skills to design and implement a data warehouse for the company.
 
-Learning objectives
+# Learning objectives:
 
 After completing this lab, you will be able to:
 
@@ -41,6 +41,7 @@ The solid waste management company has provided you the sample data they want to
 You will start your project by designing a Star Schema warehouse by identifying the columns for the various dimensions and fact tables in the schema.
 
 Task 1: Design the dimension table MyDimDate
+
 Write down the fields in the MyDimDate table in any text editor, one field per line. The company is looking at a granularity of day, which means they would like to have the ability to generate the report on a yearly, monthly, daily, and weekday basis.
 
 Here is a partial list of fields to serve as an example:
